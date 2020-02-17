@@ -1,0 +1,12 @@
+{
+  "name": "@biqpete/ch97159",
+  "version": "1.0.0",
+  "description": "zaliczenie WSB",
+  "repository": "biqpete/ch97159",
+  "main": "index.js",
+  "keywords": [
+    "WSB",
+    "npm",
+    "exam"
+  ]
+}
